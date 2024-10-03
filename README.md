@@ -39,8 +39,5 @@ You can customize the simulation by modifying the following parameters in the `m
 ## Contributing
 Contributions to improve the simulation or add new features are welcome. Please feel free to submit a pull request or open an issue.
 
-## License
-[MIT License](https://opensource.org/licenses/MIT)
-
 ## Acknowledgements
 This project was inspired by the fascinating behavior of ants and the desire to create an engaging, non-intrusive desktop animation.# ants-on-screen-prank
